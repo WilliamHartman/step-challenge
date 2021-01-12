@@ -1,0 +1,15 @@
+.Table {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.table-tablejsx {
+    width: 80vw;
+    height: 40px;
+    border: 2px solid rgb(255, 242, 217);
+    
+}

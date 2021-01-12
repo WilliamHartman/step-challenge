@@ -1,0 +1,16 @@
+.Score {
+    width: 100vw;
+    padding-bottom: 15px;
+}
+
+.score-title {
+    color: rgb(255, 242, 217);
+    font-size: 47px;
+    margin: 10px 0 20px 0;
+}
+
+.score-scoresjsx {
+    color: rgb(255, 67, 67);
+    font-size: 35px;
+    margin: 5px 0 5px 0;
+}
